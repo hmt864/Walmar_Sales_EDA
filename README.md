@@ -19,13 +19,18 @@ One of the primary difficulties for EDA process was the integrity of the provide
 ### Q1. Establishing a Performance Baseline:<br> 
 To understand a "normal" year, exclusively focusing on the complete 2011 data. This create a seasonality chart that clearly visualized the smooth sales spike from Q1 to Q4, establishing a predictable annual pattern. Then, calculated the total and average weekly sales for each store in 2011 to definitively identify our top 10 performers by volume. 
 A trend line for 2011 showing that the two peaks for the whole year are dedicated at the end of the year with two massive holidays, Thanksgiving and Christmas, and a bottom on the Jan.<br><br>
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0e49d44e-efbb-47f8-94ae-dbb1373dc18e" /><br><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/db9c9af2-0101-4f8a-8ed1-9097be86ce2e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/636c1621-18f4-4983-9097-088ee85baaa7" />
+<br><br>
 From the overall sales performance noticed that the top 10 sales stores in 2011 can be grouped into 3, and the interval for each group is around 10M. The lead of stores is store 4 with 111.09M total sales and 2.14M for each week.<br><br>
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a79ff32-4386-4ddc-a4af-2ba841b49536" /><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1e0e4920-cbf0-439f-866f-b8f628dcd0ee" /><br><br>
 ### Q2. Identifying Growth Opportunities:<br>
 The dataset was incomplete for certain months. Therefore, to ensure a consistent comparison, the period for the Year-over-Year (YoY) analysis was limited to February–October. <br>
 The Top 10 and Bottom 10 charts YoY growth for 2011 <br><br>
-<img width="505" height="500" alt="image" src="https://github.com/user-attachments/assets/61539a62-119d-49d0-b6e9-01a03f316cde" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/61539a62-119d-49d0-b6e9-01a03f316cde" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ea07426-3598-468a-8692-8d67c56cbfa8" /><br>
+### Q3. Holiday Sales Performance:<br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/797a4996-52a0-4c80-9db0-35e80cc94ef0" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e3b3cca7-1367-48ec-ab44-5e8ee8a7e5c6" />
 
 
