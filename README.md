@@ -32,8 +32,8 @@ The stores #7 (11.98%), #38 (10.49%), and #4 (8.71%) are the top 3 growth stores
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/61539a62-119d-49d0-b6e9-01a03f316cde" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ea07426-3598-468a-8692-8d67c56cbfa8" /><br>
 ### Q3. Holiday Sales Performance:<br>
-The average sales number for holiday is larger than 
-<img width="500" height="50" alt="image" src="https://github.com/user-attachments/assets/e6387540-ca19-4869-9a82-2682713ecfce" />
+The average sales number for holiday is larger than <br><br>
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e6387540-ca19-4869-9a82-2682713ecfce" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/797a4996-52a0-4c80-9db0-35e80cc94ef0" />
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e3b3cca7-1367-48ec-ab44-5e8ee8a7e5c6" />
 
