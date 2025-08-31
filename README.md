@@ -32,9 +32,12 @@ The stores #7 (11.98%), #38 (10.49%), and #4 (8.71%) are the top 3 growth stores
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/61539a62-119d-49d0-b6e9-01a03f316cde" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ea07426-3598-468a-8692-8d67c56cbfa8" /><br>
 ### Q3. Holiday Sales Performance:<br>
-The average sales number for holiday is larger than <br><br>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e6387540-ca19-4869-9a82-2682713ecfce" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/797a4996-52a0-4c80-9db0-35e80cc94ef0" />
+In terms of the average sales performance, the holiday sales is higher than non-holiday on the performance of weekly average sales, but one thing crucial is that non-holidays make up the majority of the calendar and holiday weeks are limited. So even if holiday weeks are stronger on average, the total is dominated by the many more non-holiday weeks.<br><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/797a4996-52a0-4c80-9db0-35e80cc94ef0" /><br>
+At the top 10 sales lift chart for average sales of holiday weeks to average sales of non-holiday weeks for each store, the top 1 store is #10 with 230k (12.24%), which is only store over 200K sales lift. The rest of nine stores are around 150K, their higher incremental average sales number shows the contribution to overall revenue<br>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e3b3cca7-1367-48ec-ab44-5e8ee8a7e5c6" />
+Preventing mask the performance of smaller stores, the percentage of average sales lift also being measured. In this chart we can examine different ranking list compare with incremental sales lift chart, top 1 store becomes #7 and more than half of stores are not the top 10 incremental sales lift stores (except #35, #12, #18, #10). 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a448aeb6-04c3-4ce2-a100-37a3aa3835d1" />
+
 
 
