@@ -50,3 +50,8 @@ While most of stores benefit from holidays, some are far more effective at capit
   - Some stores (like #10) with large incremental sales lift contribute directly to the holiday sales base, and the highest percentage lift stores (like #7) indicate effective, targeted strategies that appeal to their local customer base. 
 
 ### Actionable Recommendations
+1. Tier Groups Strategy for Incremental Sales:
+- For top-tier stores (#4, #20, etc.): They are the foundation of total sales, so the further strategy should dedicate in sustaining their strong sales performance on the following years by providing sufficient inventory, prioritizing logistics, and hiring more staff during peak periods (especially Q4).
+- Improvement of other stores: Using the performance of the top-tier stores as a benchmark or reference to find the required improvements in different areas such as local marketing expenses, procedure optimization, human resource management, etc.
+2. Investment on Potential Stores:
+- 
